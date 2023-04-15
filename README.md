@@ -1,7 +1,7 @@
 # SensitiveWordsDetection
 这是一个使用JavaFx完成的爬取网页并进行敏感词检测与高亮显示的小程序
 ### 安装
-克隆项目代码，然后设置JDK为18，运行即可
+克隆项目代码，然后设置JDK为18，使用idea打开，选择“Edit Configuration”,添加新的运行配置，选择maven，在Command Line里输入javafx:run，然后apply，就可以正常运行了
 ### 功能
 * 输入网页，爬取html内容，提取文字信息，导入敏感词，高亮显示敏感词，批量爬取
 ### 用法
